@@ -116,3 +116,10 @@ Prediction logic has been calibrated using publicly available healthcare dataset
 
 ![System Architecture](system-architecture.png)
 ---
+## 🌐 Live Demo
+
+The latest version of this project was built and deployed using Lovable AI.
+
+🔗 https://medicalhealth.lovable.app
+
+> Note: This repository contains an earlier implementation of the project. The live version includes significant UI/UX, explainable AI, and dashboard enhancements developed using Lovable.
