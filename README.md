@@ -96,11 +96,11 @@ Prediction logic has been calibrated using publicly available healthcare dataset
 
 ## 📝 Health Assessment Form
 
-![Form](form.png)
+![Health Assessment](form.png)
 
 ---
 
-## 📊 Dashboard
+## 📊 AI Dashboard
 
 ![Dashboard](dashboard.png)
 
@@ -108,8 +108,13 @@ Prediction logic has been calibrated using publicly available healthcare dataset
 
 ## 🧠 Explainable AI
 
-![Explainable AI](Explainable%20ai.png)
+![Explainable AI](explainable-ai.png)
 
+---
+
+## 🏗️ System Architecture
+
+![System Architecture](system-architecture.png)
 ---
 
 ## 🏗️ System Architecture
