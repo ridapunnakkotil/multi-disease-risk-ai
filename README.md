@@ -116,7 +116,3 @@ Prediction logic has been calibrated using publicly available healthcare dataset
 
 ![System Architecture](system-architecture.png)
 ---
-
-## 🏗️ System Architecture
-
-![Architecture](System%20Architecture%20.png)
