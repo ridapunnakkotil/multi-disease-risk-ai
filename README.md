@@ -86,4 +86,32 @@ Prediction logic has been calibrated using publicly available healthcare dataset
 - Random Forest
 
 ---
+# 📸 Screenshots
 
+## 🏠 Homepage
+
+![Homepage](homepage.png)
+
+---
+
+## 📝 Health Assessment Form
+
+![Form](form.png)
+
+---
+
+## 📊 Dashboard
+
+![Dashboard](dashboard.png)
+
+---
+
+## 🧠 Explainable AI
+
+![Explainable AI](Explainable%20ai.png)
+
+---
+
+## 🏗️ System Architecture
+
+![Architecture](System%20Architecture%20.png)
